@@ -1,0 +1,14 @@
+#include<stdio.h>
+#include<conio.h>
+int main()
+{
+	\\This is the first line within the main
+	printf("Hello world\n");
+	\\this is the last line in the main.
+	cout<<"What up!";
+	\* Hey there i am using whatsapp
+	return 0;
+         */
+
+return 0;
+}
